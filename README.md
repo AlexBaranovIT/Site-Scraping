@@ -1,2 +1,2 @@
-This is repository with main Python projects
+This is repository with Scraping Python projects
 
