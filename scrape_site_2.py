@@ -8,6 +8,7 @@ class CrawlingSpider(CrawlSpider):
     allowed_domains = ["toscrape.com"]
     start_urls = ["https://books.toscrape.com"]
 
+    
     #State the rules of scraping
     rules = (
         Rule(LinkExtractor(allow="catalogue/category")),
