@@ -2,6 +2,7 @@
 import bs4
 #pip install requests
 import requests
+#pip install csv (if needed)
 import csv
 
 page_to_scrape = requests.get("https://quotes.toscrape.com")
