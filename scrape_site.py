@@ -1,5 +1,6 @@
 #pip install bs4
 import bs4
+#pip install requests
 import requests
 import csv
 
